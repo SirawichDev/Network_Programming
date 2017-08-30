@@ -11,5 +11,5 @@ if you don't have 'brew' command in your macos you can install from this website
 for window you can get python for this website https://www.python.org
 
 ## IDE
-[Pycharm](https://www.jetbrains.com/pycharm/) - i use this ide because can complie and run.
-[Sublime Text](https://www.sublimetext.com/3) - fast ide.
+* [Pycharm](https://www.jetbrains.com/pycharm/) - i use this ide because can complie and run.
+* [Sublime Text](https://www.sublimetext.com/3) - fast ide.
